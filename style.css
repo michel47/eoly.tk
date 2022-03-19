@@ -1,0 +1,10 @@
+body {
+  background-color: #314;
+}
+main div:first-child {
+  background-color: #fff;
+  padding: 1.2rem;
+  max-width: 720px;
+  margin: auto;
+  margin-top: 10vh;
+}
